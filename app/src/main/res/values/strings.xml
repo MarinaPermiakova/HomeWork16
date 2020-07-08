@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeWork16</string>
+    <string name="greeting">Hi</string>
+    <string name="ok">ОК</string>
+    <string name="choose_language">Choose language:</string>
+
+    <string-array name="language">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+
+</resources>
